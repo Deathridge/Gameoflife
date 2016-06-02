@@ -1,0 +1,40 @@
+.dead {
+  background-color: white;
+  width: 10px;
+  height: 10px;
+  display: block;
+  float: left;
+  border: 0.1px solid black; }
+
+.alive {
+  background-color: #e50000;
+  width: 10px;
+  height: 10px;
+  display: block;
+  float: left;
+  border: 0.1px solid black; }
+
+.old {
+  background-color: #990000;
+  float: left;
+  border: 0.1px solid black; }
+
+.game-row {
+  display: inline;
+  margin: 0 auto;
+  float: left;
+  clear: left; }
+
+.gamecontainer {
+  display: inline-block; }
+
+.gamecontrol {
+  text-align: center; }
+
+.gameButtons {
+  margin: 10px; }
+
+html body {
+  background-color: blue; }
+
+/*# sourceMappingURL=style.css.map*/
