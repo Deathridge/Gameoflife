@@ -1,0 +1,61 @@
+.dead {
+	background-color: white;
+	width: 10px;
+	height: 10px;
+	display:block;
+	float:left;
+	border: 0.1px solid black;
+}
+
+.alive {
+	background-color: #e50000;
+	width: 10px;
+	height: 10px;
+	display:block;
+	float:left;
+	border: 0.1px solid black;
+}
+
+.old {
+	background-color:#990000;
+	float: left;
+	border: 0.1px solid black;
+}
+.game-row {
+	display: inline;
+	margin:0 auto;
+	float:left;
+	clear:left;
+}
+
+.gamecontainer {
+	display: inline-block;
+	
+	
+}
+
+.gamecontrol {
+	text-align: center;
+}
+
+.gameButtons {		
+	margin: 10px;
+
+	.button {
+		margin:2px;
+		border-radius:0px;
+		background-color: blue;
+		color:white;
+		display: inline;
+		padding: 0.5%;
+	}
+
+	.button:active {
+		background-color:lightblue;
+		border: solid 1px blue;
+	}
+}
+
+html body {
+	background-color: lightblue;	
+}
