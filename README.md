@@ -1,3 +1,3 @@
 # Gameoflife
 
-[http://deathridge.github.io/Gameoflife/](http://deathridge.github.io/Gameoflife/)
+[http://dbetteridge.github.io/Gameoflife/](http://dbetteridge.github.io/Gameoflife/)
